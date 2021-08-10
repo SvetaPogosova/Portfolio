@@ -1,0 +1,27 @@
+.home_container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.home_container h1 {
+  font-size: var(--h1-size);
+  color: var(--h1-color);
+}
+.home_container h2 {
+  font-size: var(--h2-size);
+  color: var(--h2-color);
+}
+.home_container span {
+  font-size: var(--h2-size);
+  padding: 2.5%;
+}
+.home_container span a {
+  color: var(--h2-color);
+  padding-inline: 10px;
+}
+
+/*# sourceMappingURL=Home.css.map */

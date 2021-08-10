@@ -1,0 +1,29 @@
+.home_container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+
+  h1 {
+    font-size: var(--h1-size);
+    color: var(--h1-color);
+  }
+
+  h2 {
+    font-size: var(--h2-size);
+    color: var(--h2-color);
+  }
+
+  span {
+    font-size: var(--h2-size);
+    padding: 2.5%;
+
+    a {
+      color: var(--h2-color);
+      padding-inline: 10px;
+    }
+  }
+}

@@ -1,0 +1,45 @@
+.aboutMe {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--text-color);
+}
+.aboutMe h1 {
+  font-size: var(--h1-size);
+  color: var(--h1-color);
+}
+.aboutMe h2 {
+  font-size: var(--h2-size);
+  color: var(--h2-color);
+}
+.aboutMe p {
+  font-size: var(--text-size);
+}
+.aboutMe li {
+  font-size: var(--text-size);
+}
+
+.info {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.info div {
+  background: #f2b9cc;
+  color: #523637;
+  border-radius: 20px;
+  margin: 3%;
+  padding: 2%;
+}
+.info div ul {
+  list-style: none;
+}
+
+/*# sourceMappingURL=AboutMe.css.map */
