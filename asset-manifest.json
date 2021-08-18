@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f5c85517.chunk.css",
-    "main.js": "/portfolio/static/js/main.3f360f9c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3f360f9c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.febb9bbe.chunk.css",
+    "main.js": "/portfolio/static/js/main.82ab9878.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.82ab9878.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0e2d4c23.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0e2d4c23.js.map",
-    "static/js/2.3d708491.chunk.js": "/portfolio/static/js/2.3d708491.chunk.js",
-    "static/js/2.3d708491.chunk.js.map": "/portfolio/static/js/2.3d708491.chunk.js.map",
+    "static/js/2.66409325.chunk.js": "/portfolio/static/js/2.66409325.chunk.js",
+    "static/js/2.66409325.chunk.js.map": "/portfolio/static/js/2.66409325.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.f5c85517.chunk.css.map": "/portfolio/static/css/main.f5c85517.chunk.css.map",
-    "static/js/2.3d708491.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3d708491.chunk.js.LICENSE.txt",
+    "static/css/main.febb9bbe.chunk.css.map": "/portfolio/static/css/main.febb9bbe.chunk.css.map",
+    "static/js/2.66409325.chunk.js.LICENSE.txt": "/portfolio/static/js/2.66409325.chunk.js.LICENSE.txt",
     "static/media/CSS3_logo.2eb3563d.png": "/portfolio/static/media/CSS3_logo.2eb3563d.png",
     "static/media/HTML5_logo.6559e0a5.png": "/portfolio/static/media/HTML5_logo.6559e0a5.png",
     "static/media/JS_logo.2e10b2a2.png": "/portfolio/static/media/JS_logo.2e10b2a2.png",
     "static/media/React_logo.798a8f28.png": "/portfolio/static/media/React_logo.798a8f28.png",
     "static/media/Redux_logo.80fcdbd9.png": "/portfolio/static/media/Redux_logo.80fcdbd9.png",
-    "static/media/Sass_logo.d499cfc0.png": "/portfolio/static/media/Sass_logo.d499cfc0.png",
-    "static/media/App.css": "/portfolio/static/media/lowpolyjpg.b5bb1e1c.jpg"
+    "static/media/Sass_logo.d499cfc0.png": "/portfolio/static/media/Sass_logo.d499cfc0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0e2d4c23.js",
-    "static/js/2.3d708491.chunk.js",
-    "static/css/main.f5c85517.chunk.css",
-    "static/js/main.3f360f9c.chunk.js"
+    "static/js/2.66409325.chunk.js",
+    "static/css/main.febb9bbe.chunk.css",
+    "static/js/main.82ab9878.chunk.js"
   ]
 }
